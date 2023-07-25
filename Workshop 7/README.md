@@ -1,1 +1,1 @@
-
+In this workshop I will create a dashboard with Tableau Public on the international tourism industry that illustrates its trends over the years. Dashboard can be accessed from my Tableau Public profile at this [link](https://public.tableau.com/app/profile/enrico.sain)
