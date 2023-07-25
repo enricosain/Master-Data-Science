@@ -1,1 +1,1 @@
-
+Starting from the data related to the world production and distribution of food and feed, I am going to analyze the negative impact they have on the environment. I will perform an exploratory data analysis (EDA) with these datasets to identify the key factors that contribute to this impact.
