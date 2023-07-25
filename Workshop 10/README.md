@@ -1,1 +1,1 @@
-
+In this workshop I will use the MNIST data (https://www.tensorflow.org/datasets/catalog/mnist) to train various classifiers, such as a Random Forest classifier, and combine them with an Ensemble method, using different ensampling techniques (hard/soft voting).
