@@ -1,3 +1,5 @@
+This is my Master Degree Final Project. 
+
 __Credit Risk dataset__
 
 __Context:__
