@@ -1,1 +1,1 @@
-
+In this workshop, I will train and compare the metrics of several baseline regression models using the first 500 rows of the dataset. The goal is to predict water temperature as a function of salinity.
